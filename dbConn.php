@@ -2,7 +2,7 @@
 $server = "localhost";
 $userName = "root";
 $serverPassword = "";
-$dbName = "AuthDB";
+$dbName = "Aafir";
 
 
 
